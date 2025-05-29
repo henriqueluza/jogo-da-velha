@@ -2,10 +2,6 @@
 
 Um jogo da velha moderno e responsivo desenvolvido com React e estilizado com Tailwind CSS.
 
-![React](https://img.shields.io/badge/React-19.1.0-61DAFB?style=for-the-badge&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.0-38B2AC?style=for-the-badge&logo=tailwind-css)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript)
-
 
 ## 🚀 Tecnologias Utilizadas
 
